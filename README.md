@@ -2,31 +2,44 @@
 
 Data Structures and Algorithms / Course 3 of 6: Algorithms on Graphs
 
-Programming Assignment 1: 
+Programming Assignment 1:
+
   Problem: Finding an Exit from a Maze / reachability
+  
   Problem: Adding Exits to a Maze / connected_components
 
 Programming Assignment 2:
+
   Problem: Checking Consistency of CS Curriculum / acyclicity
+  
   Problem: Determining an Order of Courses / toposort
+  
   Advanced Problem: Checking Whether Any Intersection in a City is Reachable from Any Other / strongly_connected
 
 Programming Assignment 3:
+
   Problem: Computing the Minimum Number of Flight Segments / bfs
+  
   Problem: Checking whether a Graph is Bipartite / bipartite
   
 Programming Assignment 4: 
+
   Problem: Computing the Minimum Cost of a Flight / dijkstra
+  
   Problem: Detecting Anomalies in Currency Exchange Rates / negative cycle
+  
   Advanced Problem: Exchanging Money Optimally / shortest paths
 
-Programming Assignment 5:   
+Programming Assignment 5: 
+
   Problem: Building Roads to Connect Cities / connecting_points
+  
   Problem: Clusterin / clustering
   
 Data Structures and Algorithms / Course 4 of 6: Algorithms on Strings
 
 Programming Assignment 1:
+
   Problem: Construct a Trie from a Collection of Patterns / trie
   Problem: Implement TrieMatching / trie_matching
   Problem: Extend TrieMatching / trie_matching_extended
