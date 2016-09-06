@@ -46,3 +46,10 @@
 * Problem: Pattern Matching with the Suffix Array / [suffix_array_matching](https://github.com/barik111/Coursera/tree/master/Data_Structures_and_Algorithms/Algorithms_on_Strings/Programming-Assignment-3/suffix_array_matching)
 * Advanced Problem: Construct the Suffix Tree from the Suffix Array / [suffix_tree_from_array](https://github.com/barik111/Coursera/tree/master/Data_Structures_and_Algorithms/Algorithms_on_Strings/Programming-Assignment-3/suffix_tree_from_array)
 
+## Data Structures and Algorithms / Course 5 of 6: Advanced Algorithms and Complexity
+
+### Programming Assignment 1:
+* Problem: Evacuating People / [evacuation] (https://github.com/barik111/Coursera/tree/master/Data_Structures_and_Algorithms/Advanced_Algorithms_And_Complexity/Programming%20Assignment%201/evacuation)
+* Problem: Assigning Airline Crews to Flights / [airline_crews] (https://github.com/barik111/Coursera/tree/master/Data_Structures_and_Algorithms/Advanced_Algorithms_And_Complexity/Programming%20Assignment%201/airline_crews)
+* Advanced Problem: Stock Charts / [stock_charts] (https://github.com/barik111/Coursera/tree/master/Data_Structures_and_Algorithms/Advanced_Algorithms_And_Complexity/Programming%20Assignment%201/stock_charts)
+
