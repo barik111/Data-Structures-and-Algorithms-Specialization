@@ -2,20 +2,20 @@
 
 ## Data Structures and Algorithms / Course 3 of 6: Algorithms on Graphs
 
-### Programming Assignment 1:
+### Programming Assignment 1: Decomposition of Graphs
 * Problem: Finding an Exit from a Maze / [reachability](https://github.com/barik111/Coursera/tree/master/Data_Structures_and_Algorithms/Algorithms_on_Graphs/graph_decomposition_starter_files_1/reachability)
 * Problem: Adding Exits to a Maze / [connected_components](https://github.com/barik111/Coursera/tree/master/Data_Structures_and_Algorithms/Algorithms_on_Graphs/graph_decomposition_starter_files_1/connected_components)
 
-### Programming Assignment 2:
+### Programming Assignment 2: Decomposition of Graphs
 * Problem: Checking Consistency of CS Curriculum / [acyclicity](https://github.com/barik111/Coursera/tree/master/Data_Structures_and_Algorithms/Algorithms_on_Graphs/graph_decomposition_starter_files_2/acyclicity)
 * Problem: Determining an Order of Courses / [toposort](https://github.com/barik111/Coursera/tree/master/Data_Structures_and_Algorithms/Algorithms_on_Graphs/graph_decomposition_starter_files_2/toposort)
 * Advanced Problem: Checking Whether Any Intersection in a City is Reachable from Any Other / [strongly_connected](https://github.com/barik111/Coursera/tree/master/Data_Structures_and_Algorithms/Algorithms_on_Graphs/graph_decomposition_starter_files_2/strongly_connected)
 
-### Programming Assignment 3:
+### Programming Assignment 3: Paths in Graphs
 * Problem: Computing the Minimum Number of Flight Segments / [bfs](https://github.com/barik111/Coursera/tree/master/Data_Structures_and_Algorithms/Algorithms_on_Graphs/paths_in_graphs_starter_files_1/bfs)
 * Problem: Checking whether a Graph is Bipartite / [bipartite](https://github.com/barik111/Coursera/tree/master/Data_Structures_and_Algorithms/Algorithms_on_Graphs/paths_in_graphs_starter_files_1/bipartite)
   
-### Programming Assignment 4: 
+### Programming Assignment 4: Paths in Graphs
 * Problem: Computing the Minimum Cost of a Flight / [dijkstra](https://github.com/barik111/Coursera/tree/master/Data_Structures_and_Algorithms/Algorithms_on_Graphs/paths_in_graphs_starter_files_2/dijkstra)
 * Problem: Detecting Anomalies in Currency Exchange Rates / [negative cycle](https://github.com/barik111/Coursera/tree/master/Data_Structures_and_Algorithms/Algorithms_on_Graphs/paths_in_graphs_starter_files_2/negative_cycle)
 * Advanced Problem: Exchanging Money Optimally / [shortest paths](https://github.com/barik111/Coursera/tree/master/Data_Structures_and_Algorithms/Algorithms_on_Graphs/paths_in_graphs_starter_files_2/shortest_paths)
@@ -26,7 +26,7 @@
   
 ## Data Structures and Algorithms / Course 4 of 6: Algorithms on Strings
 
-### Programming Assignment 1:
+### Programming Assignment 1: Suffix Trees
 
 * Problem: Construct a Trie from a Collection of Patterns / [trie](https://github.com/barik111/Coursera/tree/master/Data_Structures_and_Algorithms/Algorithms_on_Strings/Programming-Assignment-1/trie)
 * Problem: Implement TrieMatching / [trie_matching](https://github.com/barik111/Coursera/tree/master/Data_Structures_and_Algorithms/Algorithms_on_Strings/Programming-Assignment-1/trie_matching)
@@ -34,7 +34,7 @@
 * Problem: Construct the Suffix Tree of a String / [suffix_tree](https://github.com/barik111/Coursera/tree/master/Data_Structures_and_Algorithms/Algorithms_on_Strings/Programming-Assignment-1/suffix_tree)
 * Advanced Problem: Find the Shortest Non-Shared Substring of Two Strings / [non_shared_substring](https://github.com/barik111/Coursera/tree/master/Data_Structures_and_Algorithms/Algorithms_on_Strings/Programming-Assignment-1/non_shared_substring)
 
-### Programming Assignment 2:
+### Programming Assignment 2: Burrows-Wheeler Transform and Suffix Arrays
 * Problem: Construct the Burrows–Wheeler Transform of a String / [bwt](https://github.com/barik111/Coursera/tree/master/Data_Structures_and_Algorithms/Algorithms_on_Strings/Programming-Assignment-2/bwt)
 * Problem: Reconstruct a String from its Burrows–Wheeler Transform / [bwtinverse](https://github.com/barik111/Coursera/tree/master/Data_Structures_and_Algorithms/Algorithms_on_Strings/Programming-Assignment-2/bwtinverse)
 * Problem: Implement BetterBWMatching / [bwmatching](https://github.com/barik111/Coursera/tree/master/Data_Structures_and_Algorithms/Algorithms_on_Strings/Programming-Assignment-2/bwmatching)
@@ -52,7 +52,7 @@
 * Problem: Evacuating People / [evacuation] (https://github.com/barik111/Coursera/tree/master/Data_Structures_and_Algorithms/Advanced_Algorithms_And_Complexity/Programming%20Assignment%201/evacuation)
 * Problem: Assigning Airline Crews to Flights / [airline_crews] (https://github.com/barik111/Coursera/tree/master/Data_Structures_and_Algorithms/Advanced_Algorithms_And_Complexity/Programming%20Assignment%201/airline_crews)
 * Advanced Problem: Stock Charts / [stock_charts] (https://github.com/barik111/Coursera/tree/master/Data_Structures_and_Algorithms/Advanced_Algorithms_And_Complexity/Programming%20Assignment%201/stock_charts)
-* 
+
 ### Programming Assignment 2: Linear Programming
 * Problem: Infer Energy Values of Ingredients / [energy_values] (https://github.com/barik111/Coursera/tree/master/Data_Structures_and_Algorithms/Advanced_Algorithms_And_Complexity/Programming%20Assignment%202/energy_values)
 * Problem: Optimal Diet Problem / [diet] (https://github.com/barik111/Coursera/tree/master/Data_Structures_and_Algorithms/Advanced_Algorithms_And_Complexity/Programming%20Assignment%202/diet)
