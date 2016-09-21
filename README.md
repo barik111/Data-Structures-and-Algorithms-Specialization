@@ -48,8 +48,17 @@
 
 ## Data Structures and Algorithms / Course 5 of 6: Advanced Algorithms and Complexity
 
-### Programming Assignment 1:
+### Programming Assignment 1: Flows in Networks
 * Problem: Evacuating People / [evacuation] (https://github.com/barik111/Coursera/tree/master/Data_Structures_and_Algorithms/Advanced_Algorithms_And_Complexity/Programming%20Assignment%201/evacuation)
 * Problem: Assigning Airline Crews to Flights / [airline_crews] (https://github.com/barik111/Coursera/tree/master/Data_Structures_and_Algorithms/Advanced_Algorithms_And_Complexity/Programming%20Assignment%201/airline_crews)
 * Advanced Problem: Stock Charts / [stock_charts] (https://github.com/barik111/Coursera/tree/master/Data_Structures_and_Algorithms/Advanced_Algorithms_And_Complexity/Programming%20Assignment%201/stock_charts)
+* 
+### Programming Assignment 2: Linear Programming
+* Problem: Infer Energy Values of Ingredients / [energy_values] (https://github.com/barik111/Coursera/tree/master/Data_Structures_and_Algorithms/Advanced_Algorithms_And_Complexity/Programming%20Assignment%202/energy_values)
+* Problem: Optimal Diet Problem / [diet] (https://github.com/barik111/Coursera/tree/master/Data_Structures_and_Algorithms/Advanced_Algorithms_And_Complexity/Programming%20Assignment%202/diet)
+* Advanced Problem: Online Advertisement Allocation / 
 
+### Programming Assignment 3: NP-completeness
+* Problem: Assign Frequencies to the Cells of a GSM Network / [gsm_network] (https://github.com/barik111/Coursera/tree/master/Data_Structures_and_Algorithms/Advanced_Algorithms_And_Complexity/Programming-Assignment-3/gsm_network)
+* Problem: Cleaning the Apartment / [cleaning_apartment] (https://github.com/barik111/Coursera/tree/master/Data_Structures_and_Algorithms/Advanced_Algorithms_And_Complexity/Programming-Assignment-3/cleaning_apartment)
+* Advanced Problem: Advertisement Budget Allocation /
